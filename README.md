@@ -4,9 +4,7 @@
 <div align="center">
 
 <!-- TYPING ANIMATION -->
-<a href="https://github.com/ashishrawat3020-ctrl">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=💻+Aspiring+Developer;📱+Tech+Enthusiast;🎥+Content+Creator;🚀+Learning+Python,+HTML,+CSS+%26+JS" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=40&lines=Aspiring+Developer;Tech+Enthusiast;Content+Creator;Learning+Python+HTML+CSS+JavaScript)](https://github.com/ashishrawat3020-ctrl)
 
 <br/>
 
@@ -72,7 +70,7 @@ I run **TECHUNT**, where I share the latest technology updates, smartphone news,
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=F7DF1E&center=true&vCenter=true&width=500&lines=Learning.;Building.;Growing." alt="Motto" />
+[![Motto](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=F7DF1E&center=true&vCenter=true&width=500&height=50&lines=Learning;Building;Growing)](https://github.com/ashishrawat3020-ctrl)
 
 </div>
 
