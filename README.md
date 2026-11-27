@@ -64,6 +64,14 @@ I'm passionate about technology, coding, and creating digital content. I enjoy e
 
 I run **TECHUNT**, where I share the latest technology updates, smartphone news, leaks, reviews, and my opinions.
 
+<div align="center">
+
+<a href="https://www.youtube.com/@TECHUNTCLIPS">
+  <img src="https://img.shields.io/badge/YouTube-TECHUNT-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="TECHUNT on YouTube" />
+</a>
+
+</div>
+
 ---
 
 ## ✨ My Motto
